@@ -1,0 +1,10 @@
+.header
+  margin-bottom: 30px
+  color: blue
+
+  h1
+    color: #444
+
+.sideHeader
+  float: right
+  color: red
